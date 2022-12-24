@@ -1,0 +1,40 @@
+.heading{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: lightblue;
+    text-align: center;
+    padding-top: 5%;  
+}
+
+.main{
+    text-align: center;
+    color: lightblue;
+}
+
+.tab{
+     margin: auto;
+     margin-top: 20px;
+}
+
+.lab{
+    padding-right: 20px;
+}
+
+.fld{
+    padding-right: 20px;
+}
+
+.btn{
+    margin-left: 2%;
+}
+
+.frm{
+    padding-bottom: 20px;
+}
+.th{
+    padding: 20px ;
+}
+
+#gauge-chart1{
+   margin: auto;
+}
